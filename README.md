@@ -49,6 +49,18 @@ persewaan
 - Boostrap
 
 
+## Link Process Figam :
+- DB
+- UI/UX
+- Konseptual
+
+Design :
+ https://www.figma.com/file/BOlnmvELQktwMPnI8610UZ/UI-C-Trans?type=design&node-id=0-1&mode=design
+
+Flow :
+https://www.figma.com/file/la35wZcGNeYkhQi6dyNdCJ/FlowChart---C-Trans?type=whiteboard&node-id=0%3A1&t=ICpRmWVogx4dkCWG-1
+
+
 
 
 
