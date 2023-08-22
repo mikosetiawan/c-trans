@@ -1,0 +1,131 @@
+* {
+    font-family: 'Unbounded', cursive;
+}
+
+/* BG */
+.bg-c-trans1 {
+    background-color: #FFA559;
+}
+.bg-c-trans2 {
+    background-color: #FF6000;
+}
+
+/* Icon */
+.sz_ic_nav {
+    width: 10%;
+}
+li{
+    list-style-type: none;
+    text-decoration: none;
+}
+.rounded-nav {
+    border-radius: 0px 30px 0px 0px;
+}
+.line-nav {
+    border-bottom: 1px solid black;
+}
+
+
+/* Box grafis */
+.fs-no {
+    font-size: 30px;
+    font-weight: 800;
+}
+.fs-no2 {
+    font-size: 20px;
+}
+
+/* Bottom/BTN */
+.btn-print-ctrans {
+    border: none;
+    background-color: #FF6000;
+    color: #fff;
+    padding: 10px;
+    width: 150px;
+    border-radius: 25px;
+}
+.btn-export-ctrans {
+    border: none;
+    background-color: #21D033;
+    color: #fff;
+    padding: 10px;
+    width: 150px;
+    border-radius: 25px;
+}
+.say {
+    color: #C5BEBE;
+}
+.hi {
+    font-size: 25px;
+}
+.btn-complete {
+    border: none;
+    background-color: #FFA559;
+    color: #fff;
+    padding: 10px;
+    border-radius: 25px;
+}
+.btn-complete-success {
+    border: none;
+    background-color: #21D033;
+    color: #fff;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+/* Sidebar */
+.active-sidebar:hover {
+    background-color: #FFA559;
+}
+.active-sidebar-active {
+    background-color: #FFA559;
+}
+
+/* Form Booking */
+.title-form {
+    text-align: center;
+    font-size: 25px;
+}
+.btn-submit {
+    border: none;
+    background-color: #FF6000;
+    color: #fff;
+    padding: 10px;
+    width: 100%;
+    border-radius: 25px;
+
+}
+
+/* Form Approved */
+.btn-approved {
+    background-color: #21D033;
+    color: #fff;
+    border-radius: 25px;
+    border: none;
+    padding: 10px;
+    width: 100%;
+}
+.btn-approved2 {
+    background-color: #FFA559;
+    color: #fff;
+    border-radius: 25px;
+    border: none;
+    padding: 10px;
+    width: 100%;
+}
+.btn-approved3 {
+    background-color: #FF6000;
+    color: #fff;
+    border-radius: 25px;
+    border: none;
+    padding: 10px;
+    width: 100%;
+}
+.btn-not-approved {
+    background-color: #ff3e3e;
+    color: #fff;
+    border-radius: 25px;
+    border: none;
+    padding: 10px;
+    width: 100%;
+}

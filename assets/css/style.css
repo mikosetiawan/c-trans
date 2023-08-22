@@ -1,0 +1,122 @@
+* {
+    font-family: 'Unbounded', cursive;
+}
+
+/* Input */
+
+::placeholder {
+    color: #FFA559;
+    text-align: center;
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.form-input-ctrans {
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 230px;
+    color: #FFA559;
+    font-weight: 800;
+    font-size: 18px;
+    text-align: center;
+    border: none;
+    width: 450px;
+    height: 60px;
+    border-radius: 50px;
+    padding: 15px;
+
+}
+
+.form-input-ctrans2 {
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 300px;
+    color: #FFA559;
+    font-weight: 800;
+    font-size: 18px;
+    text-align: center;
+    border: none;
+    width: 450px;
+    height: 60px;
+    border-radius: 50px;
+    padding: 15px;
+
+}
+
+.form-input-ctrans-btn {
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 400px;
+    background-color: #FF6000;
+    color: #fff;
+    font-weight: 800;
+    font-size: 18px;
+    text-align: center;
+    border: none;
+    width: 450px;
+    height: 60px;
+    border-radius: 50px;
+    padding: 15px;
+
+}
+
+.form-input-ctrans-btn2 {
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 470px;
+    background-color: #FFA559;
+    color: #fff;
+    font-weight: 800;
+    font-size: 18px;
+    text-align: center;
+    border: none;
+    width: 450px;
+    height: 60px;
+    border-radius: 50px;
+    padding: 15px;
+
+}
+
+.explore:hover {
+    box-shadow: 10px 10px 54px -16px rgba(0, 0, 0, 0.67);
+    -webkit-box-shadow: 10px 10px 54px -16px rgba(0, 0, 0, 0.67);
+    -moz-box-shadow: 10px 10px 54px -16px rgba(0, 0, 0, 0.67);
+}
+
+.forget {
+    margin-top: 470px;
+    margin-left: 80px;
+}
+
+/* Forget pass*/
+.form-input-ctrans-forget {
+    position: absolute;
+    color: #FFA559;
+    font-weight: 800;
+    font-size: 18px;
+    text-align: center;
+    border: none;
+    width: 50%;
+    height: 60px;
+    border-radius: 50px;
+    padding: 15px;
+    margin-top: -80px;
+
+}
+
+.form-input-ctrans-forget-btn {
+    position: absolute;
+    color: #fff;
+    background-color: #FF6000;
+    font-weight: 800;
+    font-size: 18px;
+    text-align: center;
+    border: none;
+    width: 50%;
+    height: 60px;
+    border-radius: 50px;
+    padding: 15px;
+    margin-top: 80px;
+
+
+}
